@@ -1,0 +1,31 @@
+{
+    "elitist": {
+        "True": 1,
+        "False": 2
+    },
+    "mirrored": {
+       "N": 1,
+       "mirrored": 2,
+       "mirrored pairwise": 3
+    },
+    "base_sampler": {
+        "gaussian": 1,
+        "sobol": 2,
+        "halton": 3
+    },
+    "weights_option": {
+        "default": 1,
+        "equal": 2,
+        "1/2^lambda": 3
+    },
+    "local_restart": {
+        "N": 1,
+        "IPOP": 2,
+        "BIPOP": 3
+    },
+    "step_size_adaptation": {
+        "csa": 1,
+        "psr": 2
+
+    }
+}

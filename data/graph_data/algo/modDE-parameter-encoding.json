@@ -1,0 +1,35 @@
+{
+    "mutation_base": {
+        "rand": 1,
+        "best": 2,
+        "target": 3
+    },
+    "mutation_reference": {
+       "N": 1,
+       "pbest": 2,
+       "best": 3,
+       "rand": 4
+    },
+    "mutation_n_comps": {
+        "1": 1,
+        "2": 2
+    },
+    "use_archive": {
+        "True": 1,
+        "False": 2
+    },
+    "crossover": {
+        "bin": 1,
+        "exp": 2
+    },
+    "adaptation_method": {
+        "N": 1,
+        "shade": 2,
+        "jDE": 3
+    },
+    "lpsr": {
+        "True": 1,
+        "False": 2
+
+    }
+}
